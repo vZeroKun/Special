@@ -1,0 +1,75 @@
+body {
+  background-color: #dbe2ef;
+}
+
+
+#Title {
+  font-size: 100px;
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  color: #3f72af;
+  text-shadow: 3px 0 #112d4e;
+  margin-top: 30px;
+}
+
+
+.KeyBox {
+  margin: 10px 0;
+  width: 125px; height: 125px;
+  border: 5px solid #112d4e;
+  border-radius: 10px;
+}
+
+
+.KeyRow {
+  margin-top: 100px;
+  padding: 0 60px;
+}
+
+.f {
+  background-image: url("images/France.png");
+  background-size: 125px 125px;
+}
+
+.i {
+  background-image: url("images/Italy.png");
+  background-size: 125px 125px;
+}
+
+.s {
+  background-image: url("images/Spain.png");
+  background-size: 125px 125px;
+}
+
+.u {
+  background-image: url("images/America.png");
+  background-size: 125px 125px;
+}
+
+.r {
+  background-image: url("images/Russia.png");
+  background-size: 125px 125px;
+}
+
+.j {
+  background-image: url("images/Japan.png");
+  background-size: 125px 125px;
+}
+
+.betn {
+  background-color: #3f72af;
+  color: white;
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  border: 2px solid #112d4e;
+  border-radius: 10px;
+}
+
+.betn:hover {
+  background-color: #112d4e;
+}
+
+.last {
+  text-align: center;
+  margin: 75px 0;
+}
